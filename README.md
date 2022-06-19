@@ -1,3 +1,4 @@
+![Afaeid Sarker_DBWC](https://user-images.githubusercontent.com/99267414/174488614-1c504d28-440a-45b2-bc0b-d8a32e3932b9.jpg)
 - 👋 Hi, I’m @afaeid
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML 5 , CSS 3 and JavaScript.
