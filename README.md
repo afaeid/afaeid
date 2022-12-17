@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Afaeid
 #### I'm a web developer
+
 I am a junior web developer. Web development is my hobby. I lead a busy life everyday and everywhere.
 
 Skills:   JS / HTML / CSS
