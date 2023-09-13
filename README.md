@@ -5,11 +5,11 @@ I am a junior web developer. Web development is my hobby. I lead a busy life eve
 
 Skills:   JS / HTML / CSS
 
-- 🌱 I’m currently learning Javascript  
+- 🌱 I’m currently learning Javascript and Nodejs 
 - 👯 I’m looking to collaborate on Github  
 - 💬 Ask me about Web development  
 - 📫 How to reach me: liksonbrother082527@gmail.com 
-- 😄 Pronouns: Afayed 
+- 😄 Pronouns: Afaeid 
 - ⚡ Fun fact: Cartoon 
 
 
