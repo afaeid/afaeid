@@ -9,8 +9,8 @@ Skills:   JS / HTML / CSS
 - 👯 I’m looking to collaborate on Github  
 - 💬 Ask me about Web development  
 - 📫 How to reach me: liksonbrother082527@gmail.com 
-- 😄 Pronouns: Afaeid 
-- ⚡ Fun fact: Cartoon 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I'm uncertified
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/afaeid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdafaeidsarker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/afaeid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](afaeid.github.io/my-profile/)  
