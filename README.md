@@ -8,7 +8,7 @@ Skills:   JS / HTML / CSS
 - 🌱 I’m currently learning Javascript and Nodejs 
 - 👯 I’m looking to collaborate on Github  
 - 💬 Ask me about Web development  
-- 📫 How to reach me: liksonbrother082527@gmail.com 
+- 📫 How to reach me: muhammadafaeidsarkar@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I'm uncertified
 
